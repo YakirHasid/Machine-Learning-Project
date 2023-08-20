@@ -9,6 +9,7 @@ And evaluating their expected performance on an unknown dataset at the time of t
 ## What is a Binary Classifier
 A binary classifier is a function: 𝑓:ℛ^D ⟼ {0,1} associated with each vector in the property space x∈ℛ^D.
 where D is the dimension of the feature space one of the two possible values y ∈ {1,0}.
+
 ![image](https://github.com/YakirHasid/Machine-Learning-Project/assets/120096653/b9be8a5f-ff2b-4768-88d3-ca2f7c936ccb)
 
 
