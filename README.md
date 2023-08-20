@@ -33,5 +33,7 @@ Finally, we evaluated the binary classifier using a changing variable K value.
 
 # Part B
 ## Q9-11 : Training a Logistic Regression Binary Classifier for classifying sonar signals
+![image](https://github.com/YakirHasid/Machine-Learning-Project/assets/120096653/1f9cedb9-d948-43f2-a16f-14a7fcf832a4)
+
 
 
