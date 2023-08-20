@@ -25,4 +25,10 @@ KNN-type classifier is probabilistic in nature and is based on the model:
 
 ![image](https://github.com/YakirHasid/Machine-Learning-Project/assets/120096653/6e7a3272-b54d-4e71-92f8-e07f91d2fbe3)
 
+We loaded the dataset and prepared it for training,
+
+Afterwards, we implemented the KNN algorithm in order to train the classifier,
+
+Finally, we evaluated the binary classifier using a changing variable K value.
+
 
