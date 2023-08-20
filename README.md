@@ -15,5 +15,5 @@ Where D is the dimension of the feature space one of the two possible values y â
 
 
 We used this data set that contains characteristics of sonar signal returns from two types of bodies, rocky and metallic, and the labeling of
-Each sample represents the body type from which the signal was returned.
+each sample represents the body type from which the signal was returned.
 
