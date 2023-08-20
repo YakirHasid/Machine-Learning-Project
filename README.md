@@ -31,4 +31,7 @@ Afterwards, we implemented the KNN algorithm in order to train the classifier,
 
 Finally, we evaluated the binary classifier using a changing variable K value.
 
+# Part B
+## Q9-11 : Training a Logistic Regression Binary Classifier for classifying sonar signals
+
 
