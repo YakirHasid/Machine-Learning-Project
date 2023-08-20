@@ -1,4 +1,5 @@
 # Machine Learning Project
+## Introduction
 In this project we trained Binary Classifiers of the Logistic Regression and KNN type, 
 
 Including measuring their performance on a given dataset,
