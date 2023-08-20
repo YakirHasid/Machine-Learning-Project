@@ -43,3 +43,5 @@ Afterwards, we trained the classifier and evaluated its performance along the tr
 
 Finally, we discussed about the importance of the parameters of a binary classifier and how it affects on the algorithm results and on the classifier performance.
 
+# Part C
+## Q12 : The effect of the normalization of the characteristics on the performance of the algorithms
