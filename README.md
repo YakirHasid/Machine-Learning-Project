@@ -20,6 +20,7 @@ each sample represents the body type from which the signal was returned.
 # Part A
 ## Q6-8 : Training a KNN Binary Classifier for classifying sonar signals
 ![image](https://github.com/YakirHasid/Machine-Learning-Project/assets/120096653/94a5d054-ffd5-437f-9beb-279f3b96962e)
+
 ![image](https://github.com/YakirHasid/Machine-Learning-Project/assets/120096653/6e7a3272-b54d-4e71-92f8-e07f91d2fbe3)
 
 
