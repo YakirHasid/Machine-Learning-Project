@@ -37,5 +37,9 @@ Logisitc Regression classifier is probabilistic in nature and is based on the mo
 
 ![image](https://github.com/YakirHasid/Machine-Learning-Project/assets/120096653/1f9cedb9-d948-43f2-a16f-14a7fcf832a4)
 
+We implemented the Gradient Descent algorithm,
 
+Afterwards, we trained the classifier and evaluated its performance along the training.
+
+Finally, we discussed about the importance of the parameters of a binary classifier and how it affects on the algorithm results and on the classifier performance.
 
