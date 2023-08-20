@@ -45,3 +45,8 @@ Finally, we discussed about the importance of the parameters of a binary classif
 
 # Part C
 ## Q12 : The effect of the normalization of the characteristics on the performance of the algorithms
+We normalized the dataset and repeated the experiment.
+
+Afterwards, we compared the results of a normalized dataset vs. non-normalized dataset.
+
+We found out that a normalized dataset has improved results.
